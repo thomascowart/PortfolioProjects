@@ -1,7 +1,7 @@
 # Project Descriptions
 
 ## PyCity Schools Analysis:
-An in depth analysis of datasets containing school district student and budget data uncovering key insights.
+An in-depth analysis of datasets containing school district student and budget data uncovering key insights.
 
 Tools used: Jupyter Notebook (Python pandas)
 
