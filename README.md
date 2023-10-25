@@ -1,5 +1,10 @@
 # Project Details
 
+## [Car Sales EDA with SQL](https://github.com/thomascowart/Portfolio_Projects/blob/main/Car_Sales_EDA_with_SQL.ipynb)
+An EDA of a dataset containing information pertaining to car sales.
+
+Tools used: SQL (via Python Pandasql)
+
 ## [Peloton Financial Data Analysis](https://github.com/thomascowart/Portfolio_Projects/blob/main/Peloton%20Financial%20Data%20Analysis.ipynb)
 An analysis of Peloton's stock price from the past year compared to overall stock market trends.
 
