@@ -19,3 +19,8 @@ Tools used: Python Pandas
 A short and simple project analyzing a dataset containing salaries of various professions.
 
 Tools used: Python Pandas and Matplotlib
+
+## [When Was the Golden Age of Video Games?](https://github.com/thomascowart/Portfolio_Projects/blob/main/Golden_Age_of_Video_Games.ipynb)
+An analysis of a database containing information pertaining to video games.
+
+Tools used: SQL (PostgreSQL)
