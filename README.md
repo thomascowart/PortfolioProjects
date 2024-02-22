@@ -5,8 +5,7 @@ An EDA of a dataset containing information pertaining to car sales.
 
 Tools used: SQL (via Python Pandasql)
 
-## [Motorcycle Part Sales Analysis]
-(https://github.com/thomascowart/Portfolio_Projects/blob/main/Motorcycle_Part_Sales.ipynb)
+## [Motorcycle Part Sales Analysis](https://github.com/thomascowart/Portfolio_Projects/blob/main/Motorcycle_Part_Sales.ipynb)
 A brief analysis of a motorcycle part sales dataset.
 
 Tools used: SQL (PostgreSQL)
