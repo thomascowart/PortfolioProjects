@@ -5,6 +5,11 @@ An EDA of a dataset containing information pertaining to car sales.
 
 Tools used: SQL (via Python Pandasql)
 
+## [Customer Churn Report](https://app.powerbi.com/view?r=eyJrIjoiMTlkOTQ3MmYtMTQ2ZS00NmUyLTgzZTUtMTEyOTVhZDVhMGZjIiwidCI6Ijc2YTZhZmY0LWEwNDYtNGUxZS04Nzk3LTFiMjhiM2Y1YmRiOSIsImMiOjZ9)
+A Power BI report containing multiple dashboards that break down key customer churn metrics for an organization.
+
+Tools used: Power BI
+
 ## [Motorcycle Part Sales Analysis](https://github.com/thomascowart/Portfolio_Projects/blob/main/Motorcycle_Part_Sales.ipynb)
 A brief analysis of a motorcycle part sales dataset.
 
