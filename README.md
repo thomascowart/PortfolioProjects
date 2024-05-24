@@ -3,7 +3,7 @@
 ## [Car Sales EDA with SQL](https://github.com/thomascowart/PortfolioProjects/blob/main/CarSalesEDA.ipynb)
 An EDA of a sales dataset from a car dealership with numerous locations across the country.
 
-Tools used: SQL (Python Pandasql)
+Tools used: SQL (via Python Pandas and Pandasql libraries)
 
 ## [Customer Churn Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMTlkOTQ3MmYtMTQ2ZS00NmUyLTgzZTUtMTEyOTVhZDVhMGZjIiwidCI6Ijc2YTZhZmY0LWEwNDYtNGUxZS04Nzk3LTFiMjhiM2Y1YmRiOSIsImMiOjZ9)
 A Power BI report containing multiple dashboards that break down key customer churn metrics for a national wireless service provider.
