@@ -1,32 +1,32 @@
 # Project Details
 
 ## [Car Sales EDA with SQL](https://github.com/thomascowart/Portfolio_Projects/blob/main/CarSalesEDA.ipynb)
-An EDA of a dataset containing information pertaining to car sales.
+An EDA of a sales dataset from a car dealership with numerous locations across the country.
 
 Tools used: SQL (Python Pandasql)
 
 ## [Customer Churn Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMTlkOTQ3MmYtMTQ2ZS00NmUyLTgzZTUtMTEyOTVhZDVhMGZjIiwidCI6Ijc2YTZhZmY0LWEwNDYtNGUxZS04Nzk3LTFiMjhiM2Y1YmRiOSIsImMiOjZ9)
-A Power BI report containing multiple dashboards that break down key customer churn metrics for an organization.
+A Power BI report containing multiple dashboards that break down key customer churn metrics for a national wireless service provider.
 
 Tools used: Power BI
 
 ## [Motorcycle Part Sales Analysis](https://github.com/thomascowart/Portfolio_Projects/blob/main/MotorcyclePartSales.ipynb)
-A brief analysis of a motorcycle part sales dataset.
+A brief analysis of a sales dataset for a motorcycle parts company.
 
 Tools used: SQL (PostgreSQL)
 
 ## [Peloton Financial Data Analysis](https://github.com/thomascowart/Portfolio_Projects/blob/main/PelotonFinancialDataAnalysis.ipynb)
-An analysis of Peloton's stock price from the past year compared to overall stock market trends.
+An analysis of Peloton's stock price from Q4 2022 to Q4 2023 compared to overall market trends from the same time period.
 
 Tools used: Python Numpy, Pandas, and Matplotlib libraries
 
 ## [PyCity Schools Analysis](https://github.com/thomascowart/Portfolio_Projects/blob/main/PyCitySchoolsAnalysis.ipynb)
-An in-depth analysis of datasets containing school district student and budget data uncovering key insights.
+An in-depth analysis that seeks to determine the underlying factors that potentially contribute to student success in a school district.
 
 Tools used: Python Pandas library
 
 ## [Top 10 Highest Paying States](https://github.com/thomascowart/Portfolio_Projects/blob/main/Top10HighestPayingStates.ipynb)
-A short and simple project analyzing a dataset containing salaries of various professions.
+A short and simple project analyzing a dataset containing salaries for various professions.
 
 Tools used: Python Pandas and Matplotlib libraries
 
