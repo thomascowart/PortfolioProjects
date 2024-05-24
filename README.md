@@ -1,11 +1,11 @@
 # Project Details
 
-## [Car Sales EDA with SQL](https://github.com/thomascowart/Portfolio_Projects/blob/main/CarSalesEDAwithSQL.ipynb)
+## [Car Sales EDA with SQL](https://github.com/thomascowart/Portfolio_Projects/blob/main/CarSalesEDA.ipynb)
 An EDA of a dataset containing information pertaining to car sales.
 
 Tools used: SQL (via Python Pandasql)
 
-## [Customer Churn Report](https://app.powerbi.com/view?r=eyJrIjoiMTlkOTQ3MmYtMTQ2ZS00NmUyLTgzZTUtMTEyOTVhZDVhMGZjIiwidCI6Ijc2YTZhZmY0LWEwNDYtNGUxZS04Nzk3LTFiMjhiM2Y1YmRiOSIsImMiOjZ9)
+## [Customer Churn Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMTlkOTQ3MmYtMTQ2ZS00NmUyLTgzZTUtMTEyOTVhZDVhMGZjIiwidCI6Ijc2YTZhZmY0LWEwNDYtNGUxZS04Nzk3LTFiMjhiM2Y1YmRiOSIsImMiOjZ9)
 A Power BI report containing multiple dashboards that break down key customer churn metrics for an organization.
 
 Tools used: Power BI
@@ -25,7 +25,7 @@ An in-depth analysis of datasets containing school district student and budget d
 
 Tools used: Python Pandas
 
-## [Top 10 Highest Paying Salaries](https://github.com/thomascowart/Portfolio_Projects/blob/main/Top10HighestPayingStates.ipynb)
+## [Top 10 Highest Paying States](https://github.com/thomascowart/Portfolio_Projects/blob/main/Top10HighestPayingStates.ipynb)
 A short and simple project analyzing a dataset containing salaries of various professions.
 
 Tools used: Python Pandas and Matplotlib
