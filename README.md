@@ -15,7 +15,7 @@ A brief analysis of a motorcycle part sales dataset.
 
 Tools used: SQL (PostgreSQL)
 
-## [Peloton Financial Data Analysis](https://github.com/thomascowart/Portfolio_Projects/blob/main/Peloton%20Financial%20Data%20Analysis.ipynb)
+## [Peloton Financial Data Analysis](https://github.com/thomascowart/Portfolio_Projects/blob/main/PelotonFinancialDataAnalysis.ipynb)
 An analysis of Peloton's stock price from the past year compared to overall stock market trends.
 
 Tools used: Python Numpy, Pandas, and Matplotlib
