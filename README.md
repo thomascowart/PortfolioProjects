@@ -1,4 +1,4 @@
-# Project Descriptions
+# Portfolio Projects
 
 ## [Car Sales EDA with SQL](https://github.com/thomascowart/PortfolioProjects/blob/main/CarSalesEDA.ipynb)
 An EDA of a sales dataset from a car dealership with numerous locations across the country.
