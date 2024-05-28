@@ -10,13 +10,18 @@ A Power BI report containing multiple dashboards that break down key customer ch
 
 Tools used: Power BI
 
+## [Hooli HR Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiOTYyYmZjNjItM2IyOS00NzhlLThjZWMtZGM3Zjc0ZWY2OGEzIiwidCI6Ijc2YTZhZmY0LWEwNDYtNGUxZS04Nzk3LTFiMjhiM2Y1YmRiOSIsImMiOjZ9)
+A Power BI Report containing multiple dashboards that break down employee demograhic, performance, and attrition related data for the fictitious tech company "Hooli".
+
+Tools used: Power BI
+
 ## [Motorcycle Part Sales Analysis with SQL](https://github.com/thomascowart/PortfolioProjects/blob/main/MotorcyclePartSales.ipynb)
 A brief analysis of a sales dataset for a motorcycle parts company.
 
 Tools used: SQL (PostgreSQL)
 
 ## [Peloton Financial Data Analysis with Python](https://github.com/thomascowart/PortfolioProjects/blob/main/PelotonFinancialDataAnalysis.ipynb)
-An analysis of Peloton's stock price from Q4 2022 to Q4 2023 compared to overall market trends from the same time period.
+An analysis of Peloton's stock price from Q4 2022 to Q4 2023 compared to the overall market trends from the same time period.
 
 Tools used: Python Numpy, Pandas, and Matplotlib libraries
 
