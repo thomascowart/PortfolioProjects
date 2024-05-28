@@ -6,12 +6,12 @@ An EDA of a sales dataset from a car dealership with numerous locations across t
 Tools used: SQL (via Python Pandas and Pandasql libraries)
 
 ## [Customer Churn Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMTlkOTQ3MmYtMTQ2ZS00NmUyLTgzZTUtMTEyOTVhZDVhMGZjIiwidCI6Ijc2YTZhZmY0LWEwNDYtNGUxZS04Nzk3LTFiMjhiM2Y1YmRiOSIsImMiOjZ9)
-A Power BI report containing multiple dashboards that break down key customer churn metrics for a national wireless service provider.
+A Power BI report that breaks down key customer churn metrics for a national wireless service provider.
 
 Tools used: Power BI
 
 ## [Hooli HR Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiOTYyYmZjNjItM2IyOS00NzhlLThjZWMtZGM3Zjc0ZWY2OGEzIiwidCI6Ijc2YTZhZmY0LWEwNDYtNGUxZS04Nzk3LTFiMjhiM2Y1YmRiOSIsImMiOjZ9)
-A Power BI Report containing multiple dashboards that break down employee demograhic, performance, and attrition related data for the fictitious tech company "Hooli".
+A Power BI Report that breaks down employee demograhic, performance, and attrition related data for the fictitious tech company "Hooli".
 
 Tools used: Power BI
 
